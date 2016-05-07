@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Welcome to Nice Blog"
+subtitle: "A simple Jekyll blog theme."
+date: 2016-05-07
+author: Benjamin
+category: Jekyll
+tags: jekyll github blog
+finished: true
+---
+
