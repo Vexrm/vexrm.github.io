@@ -1,0 +1,20 @@
+# Site settings
+title: Over The Wall
+name: Vexrm
+email: david.joseph.lowe@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ Professional QA for over 10 years. Love what I do, even if things get tossed over the wall.
+ This is just a place to put musings and thoughts and maybe go a bit deeper on what I see others talking about.
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://itisbenjamin.github.io" # the base hostname & protocol for your site
+#twitter_username: itisbenjamin1 # your Twitter username
+github_username:  Vexrm
+#disqus_username: itisbenjamin # your disqus username
+#google-analytics: UA-75034651-1 # add it if you have one
+
+skillstree: true # turn on or off the skills tree in about page
+
+# Build settings
+permalink: none
+markdown: kramdown
+highlighter: rouge
