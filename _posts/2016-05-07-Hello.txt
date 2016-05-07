@@ -4,7 +4,7 @@ title: "QA Retrospective"
 subtitle: "Hello World and 99 Bugs"
 date: 2016-05-07
 author: Vexrm
-category: QA Meta
+category: QAMeta
 tags: jekyll github blog whatisQA
 finished: true
 ---
