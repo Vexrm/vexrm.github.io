@@ -1,0 +1,27 @@
+---
+layout: post
+title: "QA Retrospective"
+subtitle: "Hello World and 99 Bugs"
+date: 2016-05-07
+author: Vexrm
+category: QA Meta
+tags: jekyll github blog whatisQA
+finished: true
+---
+
+Hello World. The traditional opening. I finally got a blog.
+
+Why?
+
+Because I can't shut up about testing. I love testing. I love thinking about testing. I love thinking about what a QA should do. I'm being encouraged to start this blog on multiple fonts. So a little about me and who I am.
+
+I grew up in the back hills of Pennsylvania. I was the nerd in high school and absolutely knew for certain back then I wanted to go into computer programming. So I did everything I could to learn to program and learn about programming.
+Fast forward through high school and I sent out hundreds of emails to anyone I could find online with the job title "programmer". I was using Yahoo directories back at it's height. I didn't know where to go or what it all meant. I loved computers. Believe it or not, I got replies. Go mob resources. Thus the college adventure out of state and into Missouri.
+So, remember when I said I knew for certain I wanted to be a programmer? Funny thing about certainties. They change. I learned quickly I sucked as a programmer. Oh, I could do it. I just didn't like it. I loved UMLs. I loved design. I loved testing my code. I loathed writing it. For a bit I was scared. What was I going to do with this very expensive degree?
+Enter Popcap games. They made a big splash and posted an ad for volunteer QAs. I signed up. Got my feet wet. I loved it. Into QA I went happily.
+
+Out of college I worked for a place that makes software for cooperative utilities for a little over 8 years. I recently moved jobs to a software consulting firm that's agile and a bit more modern.
+
+I keep hearing questions on what QA does and what QA means? I greatly believe in the James Bach definition that quality is anything that matters to some one that matters. 
+
+I'll be going into that a bit more in my next post. For now I'll bask in my insane proud feeling of starting this.
